@@ -1,0 +1,3 @@
+﻿  World.cpp
+C:\Users\Ноутбук\Documents\My_Projects\RPGGame\RPGGame\World.cpp(44,18): warning C4552: "-": результат выражения не используется
+  RPGGame.vcxproj -> C:\Users\Ноутбук\Documents\My_Projects\RPGGame\x64\Debug\RPGGame.exe
